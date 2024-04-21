@@ -28,9 +28,7 @@ namespace Ingresso
 						    contI++;
 							contVI+= 100;
 						break;
-						default:
-						    Console.WriteLine("Opção invalida");
-						break;
+						
                     }
                 }
 				else if (lote <= 20) 
@@ -46,9 +44,7 @@ namespace Ingresso
 						    contI++;
 							contVI+= 150;
 						break;
-						default:
-						    Console.WriteLine("Opção invalida");
-						break;
+						
                     }
                 }
 				else if (lote <=30)
@@ -64,9 +60,7 @@ namespace Ingresso
 						    contI++;
 							contVI+= 200;
 						break;
-						default:
-						    Console.WriteLine("Opção invalida");
-						break;
+						
                     }
                 }
             }
